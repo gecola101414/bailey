@@ -1,0 +1,6 @@
+{
+  "name": "Bailey3D Builder & Launcher",
+  "description": "Un emulatore e simulatore 3D fotorealistico del Ponte Bailey per la progettazione strutturale, configurazione e simulazione del varo a sbalzo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
